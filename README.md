@@ -1,2 +1,2 @@
-# first-repository
-juts a empty repository
+# Smarte
+Project tim-c01 on the bootcamp progate
